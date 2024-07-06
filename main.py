@@ -1,6 +1,6 @@
 # Anoushka Saha
 # Taylor Swift Quotes
-# Day 34 Project
+# Day 33 Project
 # July 5th, 2024
 
 from tkinter import *
